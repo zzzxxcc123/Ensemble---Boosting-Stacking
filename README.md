@@ -9,6 +9,7 @@
 5. **XGBoost , AdaBoost, GradientBoost, lightGBM**
 
 ## Stacking - 스태킹
+![image](https://github.com/zzzxxcc123/Ensemble---Boosting-Stacking/assets/117971016/2d33525a-122f-4957-bbe6-9fd2d6e24b7b)
 앙상블은 여러 모델을 조합하여 단일 모델보다 더 강력한 예측 성능을 달성하는 기법입니다. 스태킹(Stacking)은 앙상블의 한 형태로, 여러 모델을 조합하는 방식 중 하나입니다. 스태킹은 다양한 모델들이 각자의 예측을 생성하고, 이 예측들을 다시 하나의 메타 모델이라 불리는 모델에 입력으로 사용하여 최종 예측을 수행합니다.
 
 스태킹은 일반적으로 다음과 같은 단계로 진행됩니다:
